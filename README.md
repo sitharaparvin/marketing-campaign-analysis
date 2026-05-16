@@ -41,11 +41,11 @@ Total Columns: 16
 
 ## 📈 Key Insights
 
-- ROI varies significantly across campaign types.
-- Social Media and Search campaigns show strong engagement.
-- Acquisition cost impacts ROI performance.
-- Certain locations generate higher conversion rates.
-- Engagement score positively correlates with conversion rate.
+- Performed end-to-end EDA on 22K+ campaign records; analyzed ROI, Conversion rate, and Acquisition cost across 6 channels, 5 languages, and 5 customer segments
+- Identified ‘Health & Wellness’ as top segment with 4.77% average Conversion rate; ‘Foodies’ most cost-efficient at $5,455 average Acquisition cost vs ‘Fashionistas’ at $5,560.
+- Channel analysis: Facebook drove highest total ROI at $704.6K, followed by Email at $673.8K; top 2 channels contributed 34% of $4M+ total ROI
+- Language effectiveness: German campaigns delivered highest average ROI at 185.4, outperforming English at 181.5 and Spanish at 180.3 by 2-3%
+- Visualized Acquisition cost vs ROI correlation; found YouTube and Instagram ROI comparable to Google Ads despite different cost structures
 
 ---
 
